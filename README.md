@@ -1,1 +1,1 @@
-# ShoppingListApp
+# ShoppingListApp is a small shopping list app created with react-native-cli 
